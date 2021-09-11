@@ -14,7 +14,7 @@ const App: React.FC<Props> = (props) => {
   console.log(props);
   return (
     <div className="App">
-      Sports Live
+      TypeScript Example
     </div>
   );
 }
